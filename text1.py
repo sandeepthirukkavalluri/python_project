@@ -22,3 +22,4 @@ def squaresum(n) :
     return sm 
 # Driven Program 
 n = 4
+print(squaresum(n)) 
