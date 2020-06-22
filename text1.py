@@ -20,3 +20,5 @@ def squaresum(n) :
         sm = sm + (i * i) 
       
     return sm 
+# Driven Program 
+n = 4
